@@ -20,6 +20,6 @@ declare module 'vue-router/auto-routes' {
   export interface RouteNamedMap {
     '/': RouteRecordInfo<'/', '/', Record<never, never>, Record<never, never>>,
     '/[...all]': RouteRecordInfo<'/[...all]', '/:all(.*)', { all: ParamValue<true> }, { all: ParamValue<false> }>,
-    '/privacy-policy': RouteRecordInfo<'/privacy-policy', '/privacy-policy', Record<never, never>, Record<never, never>>,
+    '/tera-privacy': RouteRecordInfo<'/tera-privacy', '/tera-privacy', Record<never, never>, Record<never, never>>,
   }
 }
