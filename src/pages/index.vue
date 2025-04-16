@@ -298,6 +298,7 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
   font-weight: 400;
   margin-bottom: 12px;
   color: #0e0d0d;
+  align-self: start;
 }
 .bg {
   padding: 50px 50px;
