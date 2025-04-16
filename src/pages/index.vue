@@ -14,7 +14,7 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
       </div>
       <div class="T_content">
         Welcome to {{ APPNAME }}.
-        By accessing or using the {{ APPNAME }} mobile application, whether through a mobile device or computer (collectively, the “Service”), you agree to be bound by these Terms of Use (this “Agreement”), whether or not you create a {{ APPNAME }} account. If you wish to create a {{ APPNAME }} account and use the Services, Please review the terms described herein carefully.
+        By accessing or using the {{ APPNAME }} mobile application, whether through a mobile device or computer (collectively, the "Service"), you agree to be bound by these Terms of Use (this "Agreement"), whether or not you create a {{ APPNAME }} account. If you wish to create a {{ APPNAME }} account and use the Services, Please review the terms described herein carefully.
       </div>
 
       <!--  -->
@@ -39,7 +39,7 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
           You are an individual (i.e., not any body corporate, partnership or other business entity) at least 17 years old;
         </li>
         <li>
-          You are not on any list of individuals prohibited from conducting business with the United States (for example, the U.S. Treasury Department’s list of Specially Designated Nationals or any similar government agency list) nor do you face any other similar prohibition);
+          You are not on any list of individuals prohibited from conducting business with the United States (for example, the U.S. Treasury Department's list of Specially Designated Nationals or any similar government agency list) nor do you face any other similar prohibition);
         </li>
         <li>
           You are not prohibited by law from using our Services;
@@ -60,7 +60,7 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
           You do not have more than one account on our Services;
         </li>
         <li>
-          You have not previously been removed from our Services or our affiliates’ services by us or our affiliates, unless you have our express written permission to create a new account.
+          You have not previously been removed from our Services or our affiliates' services by us or our affiliates, unless you have our express written permission to create a new account.
         </li>
       </div>
       <div class="T_title_secondary">
@@ -122,7 +122,7 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
         <br><br>
         Your individual profile will be visible to other people around the world, so be sure that you are comfortable sharing Your Content before you share. You acknowledge and agree that Your Content may be viewed by other users, and, notwithstanding these Terms, other users may share Your Content with third parties. By sharing and/or streaming Your Content, you represent and warrant to us that you have all necessary rights and licenses to do so and automatically grant us a license to use Your Content as provided under Section 7 below.
         <br><br>
-        We may provide tools and features to enhance individual expression through Your Content and Member Content, and we’re constantly developing new technologies to improve our Services. Certain tools or features may allow you to generate or enhance content based on Your Content. This is still Your Content, and you are responsible for it and its accuracy, as well as your use of it on our Services and any and all decisions made, actions taken, and failures to take action based on Your Content. Be careful in choosing and sharing Your Content.
+        We may provide tools and features to enhance individual expression through Your Content and Member Content, and we're constantly developing new technologies to improve our Services. Certain tools or features may allow you to generate or enhance content based on Your Content. This is still Your Content, and you are responsible for it and its accuracy, as well as your use of it on our Services and any and all decisions made, actions taken, and failures to take action based on Your Content. Be careful in choosing and sharing Your Content.
         <br><br>
         You understand and agree that we may monitor or review Your Content, and we have the right to remove, delete, edit, limit, or block or prevent access to any of Your Content at any time at our sole discretion. Furthermore, you understand and agree that we have no obligation to display or review Your Content.
         <br><br>
@@ -189,7 +189,7 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
         If you no longer wish to use our Services, or if we terminate your account for any reason, here's what you need to know.
       </div>
       <div class="T_content">
-        You can delete your account at any time by logging into the Website or App, going to “Account settings” on my profile Settings, clicking "Delete Account", and following the instructions to complete the deletion process. However, you will need to cancel / manage any External Service Purchases through your External Service Account (e.g., iTunes, Google Play) to avoid additional billing.
+        You can delete your account at any time by logging into the Website or App, going to "Account settings" on my profile Settings, clicking "Delete Account", and following the instructions to complete the deletion process. However, you will need to cancel / manage any External Service Purchases through your External Service Account (e.g., iTunes, Google Play) to avoid additional billing.
         <br><br>
         {{ APPNAME }} reserves the right to investigate and, if appropriate, suspend or terminate your account without a refund if {{ APPNAME }} believes that you have violated these Terms, misused our Services, or behaved in a way that {{ APPNAME }} regards as inappropriate or unlawful, on or off our Services. We reserve the right to make use of any personal, technological, legal, or other means available to enforce the Terms, at any time without liability and without the obligation to give you prior notice, including, but not limited to, preventing you from accessing the Services.
         <br><br>
@@ -219,7 +219,7 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
         {{ APPNAME }}'s Services are provided "as is" and we do not make, and cannot make, any representations about the content or features of our Services or Member Content.
       </div>
       <div class="T_content">
-        {{ APPNAME }} provides our services on an “as is” and “as available” basis and, to the extent permitted by applicable law, disclaims all warranties of any kind, whether express, implied, statutory or otherwise, with respect to our services (including all content contained therein). (including all content contained therein), including, but not limited to, any implied warranties of satisfactory quality, merchantability, fitness for a particular purpose or non-infringement. {{ APPNAME }} does not represent or warrant that: (a) our services will be uninterrupted, secure or error-free; (b) any defects or errors in our services will be discovered or corrected; or (c) any content or information you obtain on or through our services will be accurate, complete, current or fit for your purposes. In addition, {{ APPNAME }} does not guarantee the number of active Users at any given time; the ability or desire of Users to communicate with or meet you, or the ultimate compatibility or behavior of Users you meet through the Services.
+        {{ APPNAME }} provides our services on an "as is" and "as available" basis and, to the extent permitted by applicable law, disclaims all warranties of any kind, whether express, implied, statutory or otherwise, with respect to our services (including all content contained therein). (including all content contained therein), including, but not limited to, any implied warranties of satisfactory quality, merchantability, fitness for a particular purpose or non-infringement. {{ APPNAME }} does not represent or warrant that: (a) our services will be uninterrupted, secure or error-free; (b) any defects or errors in our services will be discovered or corrected; or (c) any content or information you obtain on or through our services will be accurate, complete, current or fit for your purposes. In addition, {{ APPNAME }} does not guarantee the number of active Users at any given time; the ability or desire of Users to communicate with or meet you, or the ultimate compatibility or behavior of Users you meet through the Services.
         <br><br>
         {{ APPNAME }} is not responsible for any content posted, sent, received or performed by you or other Users or third parties through our Services, nor is {{ APPNAME }} responsible for the identity, intent, legality or authenticity of any Users with whom you may communicate through {{ APPNAME }}. Any material downloaded or otherwise obtained through the use of our Services is done at your own discretion and risk. {{ APPNAME }} shall not be liable for any damages to your computer hardware, computer software or other equipment or technology, including, but not limited to, damages resulting from any security breach, any virus, bug, bug, tampering, hacking, fraud, error, omission, interruption, defect, delay in operation or transmission, computer line or network failure, or any other technical or other interruption or failure.
       </div>
@@ -229,7 +229,7 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
         10. ADS AND THIRD-PARTY CONTENT
       </div>
       <div class="T_title_secondary">
-        You may see ads and third-party promotions on our Services. {{ APPNAME }} does not endorse and isn’t responsible for your interactions with those products or services.
+        You may see ads and third-party promotions on our Services. {{ APPNAME }} does not endorse and isn't responsible for your interactions with those products or services.
       </div>
       <div class="T_content">
         Our Services may contain advertisements and promotions offered by third parties and links to other websites or resources. In addition, our Services may allow you to watch an advertisement in exchange for In-App Items; {{ APPNAME }} does not guarantee that you will always be eligible to watch such advertisements, or that any such advertisements will be available. {{ APPNAME }} may also provide non-commercial links or references to third parties within its content. {{ APPNAME }} is not responsible for the availability (or lack of availability) of any external websites or resources or their content. Furthermore, {{ APPNAME }} is not responsible for, and does not endorse, any products or services that may be offered by third-party websites or resources. If you choose to interact with the third parties made available through our Services, such party's terms will govern their relationship with you. {{ APPNAME }} is not responsible or liable for such third parties' terms or actions.
@@ -274,24 +274,28 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
   margin-bottom: 14px;
   color: #000;
   background-color: #fff;
+  text-align: left;
 }
 .T_title_main {
   font-size: 30px;
   font-weight: 900;
   margin: 1rem 0px;
   color: #000;
+  text-align: left;
 }
 .T_title {
   font-size: 18px;
   font-weight: 700;
   margin: 1rem 0px;
   color: #000;
+  text-align: left;
 }
 .T_title_secondary {
   font-size: 16px;
   font-weight: 500;
   margin: 1rem 0px;
   color: #000;
+  text-align: left;
 }
 .T_content {
   font-size: 14px;
@@ -299,6 +303,7 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
   margin-bottom: 12px;
   color: #0e0d0d;
   align-self: start;
+  text-align: left;
 }
 .bg {
   padding: 50px 50px;

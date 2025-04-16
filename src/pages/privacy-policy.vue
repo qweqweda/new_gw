@@ -137,33 +137,45 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
   margin-bottom: 14px;
   color: #000;
   background-color: #fff;
+  text-align: left;
 }
 .T_title_main {
   font-size: 30px;
   font-weight: 900;
   margin: 1rem 0px;
   color: #000;
+  text-align: left;
 }
 .T_title {
   font-size: 18px;
   font-weight: 700;
   margin: 1rem 0px;
   color: #000;
+  text-align: left;
 }
 .T_title_secondary {
   font-size: 16px;
   font-weight: 500;
   margin: 1rem 0px;
   color: #000;
+  text-align: left;
 }
 .T_content {
   font-size: 14px;
   font-weight: 400;
   margin-bottom: 12px;
   color: #0e0d0d;
+  text-align: left;
 }
 .bg {
   padding: 50px 50px;
+  margin: 0;
   background-color: #f5f6f7;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-y: auto;
 }
 </style>
