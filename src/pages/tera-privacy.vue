@@ -14,7 +14,7 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
       </div>
       <div class="T_content">
         Please take time to read our Terms and Conditions and this Privacy Policy. By proceeding further, you have read and expressly consent to the collection, use, retention, processing, transfer and disclosure of Personal Data under the terms of this Privacy Policy.
-        Tera Inc.(hereinafter together referred to as “Company”, “we”, “our” or “us”).
+        {{ APPNAME }} Inc.(hereinafter together referred to as “Company”, “we”, “our” or “us”).
       </div>
 
       <!--  -->
@@ -32,7 +32,7 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
         <br><br>
         This Privacy Policy does not apply to the practices of third parties that we do not own, control, or manage, including, but not limited to, any third-party websites, services, applications, or businesses (“Third-Party Services”). While we try to work only with those Third-Party Services that also respect your privacy, we are not responsible for the content or privacy policies of those Third-Party Services. We encourage you to carefully review the privacy policies of all Third-Party Services that you visit.
         <br><br>
-        This Privacy Policy does not apply to content that our users post on their profiles, and we are not responsible for the information collection and use practices of individual users. On Tera, there is no built-in way to allow users to automatically collect data, and they must request it if they want any data from you.
+        This Privacy Policy does not apply to content that our users post on their profiles, and we are not responsible for the information collection and use practices of individual users. On {{ APPNAME }}, there is no built-in way to allow users to automatically collect data, and they must request it if they want any data from you.
       </div>
 
       <!-- 2 -->
@@ -58,7 +58,7 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
         <br><br>
         (v) Native Actions
         <br>
-        The Service allows you to perform actions that are essential to our products, such as liking a post, answering or commenting on Tera, and following other users. The above actions are public by default, but you can choose to remain anonymous in some cases, such as if you follow someone. We use information about the operation of this machine to improve the Services, develop new Services, and, in particular, to personalize your Tera experience. Personalization using this information may include showing you new posts related to content you like, providing you with better search results, and showing you ads that are more relevant to your interests.
+        The Service allows you to perform actions that are essential to our products, such as liking a post, answering or commenting on {{ APPNAME }}, and following other users. The above actions are public by default, but you can choose to remain anonymous in some cases, such as if you follow someone. We use information about the operation of this machine to improve the Services, develop new Services, and, in particular, to personalize your {{ APPNAME }} experience. Personalization using this information may include showing you new posts related to content you like, providing you with better search results, and showing you ads that are more relevant to your interests.
         <br><br>
         (vi) Information About User Content
         <br>
@@ -92,7 +92,7 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
       <div class="T_content">
         If your content is publicly posted, it will remain public as long as you or we do not delete it from the Service. You can choose to delete your individual post or comment at any time, and we will remove it from the Service. However, it is important to note that your deleted posts may be stored in our systems for a limited period of time for legal, business, security, or system backup reasons, and they may continue to be accessible in cached and archived pages of the Service or elsewhere if others choose to copy or save them. Search engines and other websites may also index and cache content on our Service. You may have to contact these third-party websites or search engines directly to delete your cached information, subject to their policies and procedures.
         <br><br>
-        If you wish to delete your account, you can do so by clicking the "Forget Me" button in the in-app settings. You can also delete your account using the "Email Support" link in the in-app settings (or by sending an email to tangyuxin5220@163.com), but please note that we may retain certain information as required by law, for legitimate business purposes, or for the safety of Tera (including its users) and others. We may also retain cached or archived copies of information about you for a certain period of time.
+        If you wish to delete your account, you can do so by clicking the "Forget Me" button in the in-app settings. You can also delete your account using the "Email Support" link in the in-app settings (or by sending an email to {{ EMAILADDRESS }}), but please note that we may retain certain information as required by law, for legitimate business purposes, or for the safety of {{ APPNAME }} (including its users) and others. We may also retain cached or archived copies of information about you for a certain period of time.
         <br><br>
       </div>
 
@@ -118,7 +118,7 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
         <br>
         (iii) The information is aggregated or otherwise does not identify you.
         <br>
-        You confirm that you have obtained all appropriate consents and authorizations to upload and share personal information of third parties and to contact such third parties (and to be contacted by Tera on your behalf) where relevant.
+        You confirm that you have obtained all appropriate consents and authorizations to upload and share personal information of third parties and to contact such third parties (and to be contacted by {{ APPNAME }} on your behalf) where relevant.
         <br><br>
       </div>
 
