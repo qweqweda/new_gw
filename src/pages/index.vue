@@ -13,254 +13,144 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
         Terms of Use
       </div>
       <div class="T_content">
-        Welcome to {{ APPNAME }}.
-        By accessing or using the {{ APPNAME }} mobile application, whether through a mobile device or computer (collectively, the "Service"), you agree to be bound by these Terms of Use (this "Agreement"), whether or not you create a {{ APPNAME }} account. If you wish to create a {{ APPNAME }} account and use the Services, Please review the terms described herein carefully.
+        Please read the following Terms of Use Agreement carefully. By accessing or using our website and services, you hereby agree to be bound by these Terms and all terms incorporated herein by reference. If you do not expressly agree to all terms and conditions, please do not access or use our website or our services.
       </div>
 
       <!--  -->
-      <div class="T_title">
-        CONTACTING US
+      <div class="T_title_contact">
+        Contact us: tangyuxin5220@163.com
       </div>
-      <div class="T_content">
-        If you have any questions about this Terms of Use, please contact us: {{ EMAILADDRESS }}.
-      </div>
+      <br>
 
       <!-- 1 -->
       <div class="T_title">
-        1. ACCOUNT ELIGIBILITY; YOUR RESPONSIBILITIES
-      </div>
-      <div class="T_title_secondary">
-        Before you create an account on {{ APPNAME }}, make sure you are eligible to use our Services. This Section also details what you can and can't do when using the Services, as well as the rights you grant {{ APPNAME }}.
-        <br><br>
-        You are not authorized to create an account or use the Services unless all of the following are true, and by using our Services, you represent and warrant that:
-      </div>
-      <div class="T_content" style="padding-left: 35px;">
-        <li>
-          You are an individual (i.e., not any body corporate, partnership or other business entity) at least 17 years old;
-        </li>
-        <li>
-          You are not on any list of individuals prohibited from conducting business with the United States (for example, the U.S. Treasury Department's list of Specially Designated Nationals or any similar government agency list) nor do you face any other similar prohibition);
-        </li>
-        <li>
-          You are not prohibited by law from using our Services;
-        </li>
-        <li>
-          You have not committed, been convicted of, or pled no contest to a felony or indictable offense (or crime of similar severity), a sex crime, or any crime involving violence or a threat of violence, unless you have received clemency for a non-violent crime and we have determined that you are not likely to pose a threat to other users of our Services;
-        </li>
-        <li>
-          You are legally qualified to enter a binding contract with {{ APPNAME }};
-        </li>
-        <li>
-          You are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country;
-        </li>
-        <li>
-          You are not required to register as a sex offender with any state, federal or local sex offender registry;
-        </li>
-        <li>
-          You do not have more than one account on our Services;
-        </li>
-        <li>
-          You have not previously been removed from our Services or our affiliates' services by us or our affiliates, unless you have our express written permission to create a new account.
-        </li>
-      </div>
-      <div class="T_title_secondary">
-        If at any time you cease to meet these requirements, all authorization to access our Services or systems is automatically revoked, and you must immediately delete your account, and we retain the right to remove your access to our Services without warning.
-        <br>
-        You agree to:
-      </div>
-      <div class="T_content" style="padding-left: 35px;">
-        <li>Comply with these Terms, and check this page from time to time to ensure you are aware of any changes;</li>
-        <li>Comply with all applicable laws, including without limitation, privacy laws, intellectual property laws, anti-spam laws, and regulatory requirements;</li>
-        <li>Use the latest version of the Website and/or App;</li>
-        <li>Take reasonable measures to protect the security of your login information.</li>
-      </div>
-      <div class="T_title_secondary">
-        You agree that you will not:
-      </div>
-      <div class="T_content" style="padding-left: 35px;">
-        <li>Misrepresent your identity, age, or affiliations with a person or entity;</li>
-        <li>Use the Services in a way that damages the Services or prevents their use by other users;</li>
-        <li>Use our Services in a way to interfere with, disrupt or negatively affect the platform, the servers, or our Services' networks;</li>
-        <li>Use our Services for any harmful, illegal, or nefarious purpose, including, but not limited to, using any In-App Items for purposes of money laundering or other financial crimes;</li>
-        <li>Harass, bully, stalk, intimidate, assault, defame, harm or otherwise abuse or cause psychological harm to any other user of the Services;</li>
-        <li>Post, display or share Prohibited Content (see below);</li>
-        <li>Solicit passwords for any purpose, or personal identifying information for commercial or unlawful purposes from other users or disseminate another person's personal information without his or her permission;</li>
-        <li>Solicit money or other items of value from another user, whether as a gift, loan, or form of compensation;</li>
-        <li>Use our Services in relation to fraud, a pyramid scheme, or other similar practice;</li>
-        <li>Use our Services in relation to any political campaign financing or for the purpose of influencing any election, other than sharing your own personal political opinions.</li>
-        <li>Use meta tags or code or other devices containing any reference to a third party platform (or any trademark, trade name, service mark, logo or slogan of a third party), with the intention and/or objective to direct any user of the Service to any other website for any purpose;</li>
-        <li>Modify, adapt, sublicense, translate, sell, reverse engineer, decipher, decompile or otherwise disassemble any portion of our Services, or cause others to do so;</li>
-      </div>
-      <div class="T_title_secondary">
-        Prohibited Content - {{ APPNAME }} prohibits displaying or sharing content that:
-      </div>
-      <div class="T_content" style="padding-left: 35px;">
-        <li>Could reasonably be deemed to be offensive or to harass, abuse or cause psychological distress to another person;</li>
-        <li>Is obscene, pornographic, violent or contains nudity;</li>
-        <li>Is abusive, threatening, discriminatory or that promotes or encourages racism, sexism, hatred or bigotry;</li>
-        <li>Encourages or facilitates any illegal activity including, without limitation, terrorism, inciting racial hatred or the submission of which in itself constitutes committing a criminal offense;</li>
-        <li>Encourages or facilitates any activity that may result in harm to the user or another person, including, but not limited to, promotion of self-harm, eating disorders, dangerous challenges, violent extremism,</li>
-        <li>Is defamatory, libelous, or untrue;</li>
-        <li>Relates to commercial activities (including, without limitation, sales, competitions, promotions, and advertising, solicitation for services, sex work, "sugar daddy" or "sugar baby" relationships, links to other websites or premium line telephone numbers);</li>
-        <li>Involves or facilitates the transmission of spam;</li>
-      </div>
-      <!-- 2 -->
-      <div class="T_title">
-        2. CONTENT
-      </div>
-      <div class="T_title_secondary">
-        It is important that you understand your rights and responsibilities with regard to the content on our Services, including any content you provide, share or post. You are expressly prohibited from posting inappropriate content.
+        1.Eligibility to Use the Service
       </div>
       <div class="T_content">
-        While using our Services, you will have access to: (i) content that you upload, display, share or provide while using our Services, even if suggested by our Services ("Your Content"); (ii) content that other users upload, display, share or provide while using our Services ("Member Content"); and (iii) content that {{ APPNAME }} provides on and through our Services ("Our Content"). In this agreement, "content" includes, without limitation, all text, images, video, audio, or other material on our Services, including information on users' profiles and in direct messages between users.
+        You must be at least 17 years old to access or use the Service. If you register for an account using an email platform, you must have a valid email address. If you create an account, you represent and warrant that you have never been convicted of a felony and that you are not required to register as a sex offender with any government agency. Use of the Service may be prohibited or restricted in certain countries. If you use the Service outside of the United States, you are responsible for complying with the laws and regulations of the region from which you access or use the Service.
         <br><br>
+        You are responsible for maintaining the security of your account and ensuring that no unauthorized person has access to your account. If an unauthorized person has accessed your account, you must immediately notify Tera at tangyuxin5220@163.com. You will not be able to access or use the Service if you have previously been suspended or canceled from the Service.
+      </div>
+
+      <!-- 2 -->
+      <div class="T_title">
+        2.Content and content rights
+      </div>
+      <div class="T_content">
+        For purposes of these Terms: "Content" means text, graphics, images, music, software, audio, video, original works of any kind, and information or other materials posted, generated, provided or otherwise made available through the Services; "User Content" means any content provided through the Services by an Account Holder (including you). Thus, Content includes, but is not limited to, User Content.        <br><br>
         You are solely responsible and liable for Your Content, and, therefore, you agree to indemnify, defend, release, and hold us harmless from any claims made in connection with Your Content.
         <br><br>
-        You represent and warrant to us that the information you provide to us or any other user is accurate, including any information submitted through any other third-party sources (if applicable), and that you will update your account information as necessary to ensure its accuracy.
+        (i) Ownership of Content, Responsibility and Removal
+        <br>
+        Tera does not claim any ownership rights in any content you make available through the Services, and nothing in these Terms will be deemed to restrict any right you may have to use and exploit User Content. Subject to the foregoing, Tera and its licensors exclusively own all right, title and interest in and to the Services and Content, including all related intellectual property rights. You acknowledge that the Services and Content are protected by copyright, trademark and other laws of any country. You agree not to remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices contained in or accompanying the Services or Content.
         <br><br>
-        The content included on your individual profile should be relevant to the intended use of our Services. You may not share any Prohibited Content, and your content must further comply with the Community Guidelines. You may not display any personal contact, banking information, or peer-to-peer payment information, whether in relation to you or any other person (for example, names, home addresses or postcodes, telephone numbers, email addresses, URLs, credit/debit card, peer-to-peer payment user name, or other banking details). IF YOU CHOOSE TO REVEAL ANY PERSONAL INFORMATION ABOUT YOURSELF TO OTHER USERS, YOU DO SO AT YOUR OWN RISK. WE STRONGLY ENCOURAGE YOU TO USE CAUTION IN DISCLOSING ANY PERSONAL INFORMATION ONLINE.
+        (ii) Rights in User Content You Grant
+        <br>
+        By making any User Content available through the Services, you hereby grant Tera a perpetual, non-exclusive, transferable, worldwide, royalty-free license to use, reproduce, modify, create derivative works based upon, distribute, publicly display, publicly perform and distribute your User Content for use in operating and providing the Services and Content to you and other account holders.
         <br><br>
-        Your individual profile will be visible to other people around the world, so be sure that you are comfortable sharing Your Content before you share. You acknowledge and agree that Your Content may be viewed by other users, and, notwithstanding these Terms, other users may share Your Content with third parties. By sharing and/or streaming Your Content, you represent and warrant to us that you have all necessary rights and licenses to do so and automatically grant us a license to use Your Content as provided under Section 7 below.
+        You are solely responsible for all of your User Content. You represent and warrant that you own all of your User Content or that you have all of the rights necessary to grant us the license rights to your User Content under these Terms. You also represent and warrant that your User Content, your use and provision of your User Content through the Services, and any use of your User Content by Tera on or through the Services will not infringe, misappropriate or violate a third party's intellectual property rights, rights of publicity or privacy, or any other rights, or result in the violation of any applicable law or regulation. You may remove your User Content by explicitly deleting it from your profile. However, in some cases, some of your User Content (such as virtual gifts you have given or chat messages you have sent) may not be completely removed, and copies of your User Content may continue to exist on the Services. We are not responsible for the removal or deletion (or failure to remove or delete) of any of your User Content.
         <br><br>
-        We may provide tools and features to enhance individual expression through Your Content and Member Content, and we're constantly developing new technologies to improve our Services. Certain tools or features may allow you to generate or enhance content based on Your Content. This is still Your Content, and you are responsible for it and its accuracy, as well as your use of it on our Services and any and all decisions made, actions taken, and failures to take action based on Your Content. Be careful in choosing and sharing Your Content.
+        (iii) Rights in Content Granted by Tera
+        <br>
+        Subject to your compliance with these Terms, Tera grants you a limited, non-exclusive, non-transferable, non-sublicensable license to download, view, copy, display and print the Content solely in connection with your permitted use of the Services and solely for your personal and non-commercial purposes.
         <br><br>
-        You understand and agree that we may monitor or review Your Content, and we have the right to remove, delete, edit, limit, or block or prevent access to any of Your Content at any time at our sole discretion. Furthermore, you understand and agree that we have no obligation to display or review Your Content.
+        Each user is responsible for any content or information that they post or transmit on the Services, and Tera assumes no responsibility for the conduct of any user submitting any content or any user transmitting any information. You may not make available on the Services any material or information that infringes the copyright, trademark, patent, trade secret, right of privacy, right of publicity or other right of any person or entity or that impersonates any other person.
         <br><br>
-        Any other text, content, graphics, user interfaces, trademarks, logos, sounds, artwork, images, and other intellectual property appearing on our Services is owned, controlled or licensed by us and protected by copyright, trademark and other intellectual property law rights. All rights, title, and interest in and to Our Content remains with us at all times.
-        <br><br>
-        We grant you a limited license to access and use our content, and we reserve all other rights.
+        Tera assumes no responsibility for monitoring the Services for inappropriate or illegal content or conduct and has no obligation to monitor Player Content. If Tera becomes aware of any Player Content, it shall have the right to edit, refuse to post or remove any Player Content in its sole discretion. When you use the Services, Tera may monitor and/or record your use of the Services and/or your communications while using the Services, and you hereby irrevocably consent to such monitoring and recording.
       </div>
 
       <!-- 3 -->
       <div class="T_title">
-        3. INAPPROPRIATE CONTENT AND MISCONDUCT; REPORTING
-      </div>
-      <div class="T_title_secondary">
-        {{ APPNAME }} does not tolerate inappropriate content or behavior on our Services.
+        3.Rules of Conduct
       </div>
       <div class="T_content">
-        We are committed to maintaining a positive, respectful community, and we do not tolerate any inappropriate content or inappropriate behavior, whether on or off the Service (including, but not limited to, services operated by our affiliates). We encourage you to report any inappropriate Member Content or inappropriate behavior by other users. You can report a user directly by clicking the shield icon in the user's profile or messaging experience. You can also contact customer support.
+        When you upload or post any content on our services, in some cases, it can be seen or accessed by everyone using our services (including non-registered users). You are solely responsible for all content you write or post on the services. In any case, you must comply with the following rules.
         <br><br>
-        As described in our Privacy Policy, we may share data among our affiliates to ensure the safety of our users. If we believe that you have violated these terms, we may take necessary action, including prohibiting you from using our Services and/or the services of our affiliates, and/or preventing you from creating new accounts. You understand and agree that we may not share information about your account with you if doing so may compromise the safety or privacy of our other users.
+        If you use our services, you may not post or send any content that:
+        <br>
+        1) may cause harm or damage to anyone
+        <br>
+        2) contains any software that may compromise the privacy of others or is designed to attack or modify our services in any way
+        <br>
+        3) is obscene or pornographic, contains nude photos, explicit sexual acts, or violent images
+        <br>
+        4) pretends to be from someone else or impersonates someone else
+        <br>
+        5) bullies others or is intended to harass, intimidate, or provoke others
+        <br>
+        6) encourages dangerous or illegal activities or self-harm
+        <br>
+        7) discriminates against someone based on their sexual orientation, disability, gender, age, race, or religion
+        <br>
+        8) violates the privacy rights of others
+        <br>
+        9) is illegal and may cause Tera Create legal liability, or encourage people to participate in any illegal activity (e.g., drugs, violence, or crime)
+        <br>
+        10) Defame or infringe the rights of any third party, including violation of confidentiality, copyright, trademark, patent, trade secret, moral right, privacy, publicity right, or any other intellectual property right
+        <br>
+        11) Collect user content or information without our prior permission, or otherwise use automated means (such as harvesting robots, bots, spiders, or crawlers) to access the Service   <br>
+        <br>
+        12) Share, recompile, decompile, disassemble, reverse engineer, or make or distribute any derivative works of the Service or the Service in any other form
+        <br>
+        We reserve the right to remove or disable access to any Content at any time, for any reason or no reason, without prior notice.
+        <br>
+        Tera reserves the right to investigate and/or terminate your account without refunding any purchase fees if you violate these Terms of Use, abuse the Service, or act in a manner that Tera deems inappropriate or illegal (including conduct or communications occurring on or off the Service).
+        <br>
+        You acknowledge that we have no obligation to monitor your access to or use of the Service for violations of the Terms of Use or to review or edit any Content. However, we reserve the right to do so in order to operate and improve the Services, to ensure your compliance with the Terms of Use, and to comply with applicable law or the order or request of a court, consent decree, administrative agency, or other governmental body. We are also permitted to monitor and block any of your content to prevent abuse of our Services and to take action against bullying.
+        <br>
+        We may access, preserve, or disclose any of your information if we are required to do so by law or if we believe in good faith that it is reasonably necessary to respond to a claim or comply with legal process served on us.
+        <br>
       </div>
 
       <!-- 4 -->
       <div class="T_title">
-        4. RIGHTS YOU ARE GRANTED BY {{ APPNAME }}
-      </div>
-      <div class="T_title_secondary">
-        {{ APPNAME }} grants you the right to use and enjoy our Services, subject to these Terms.
+        4.Your Tera Account and Account Security
       </div>
       <div class="T_content">
-        For as long as you comply with these Terms, {{ APPNAME }} grants you a personal, worldwide, royalty-free, non-assignable, non-exclusive, revocable, and non-sublicensable license to access and use our Services for purposes as intended by {{ APPNAME }} and permitted by these Terms and applicable laws. This license and any authorization to access the Service are automatically revoked in the event that you fail to comply with these Terms.
+        To use certain features of our Services, you may need to create a Tera account ("Account") and provide us with a username, password, and certain other information about yourself as set forth in the Privacy Policy.
+        <br><br>
+        You are solely responsible for the information associated with your Account and for anything related to your Account. You must maintain the security of your Account and notify Tera immediately if you discover or suspect that someone has accessed your Account without your permission. We recommend that you use strong passwords that are used only on the Services.
+        You may not license, sell, or transfer your Account without our prior written approval.
+        <br><br>
       </div>
 
       <!-- 5 -->
       <div class="T_title">
-        5. RIGHTS YOU GRANT {{ APPNAME }}
-      </div>
-      <div class="T_title_secondary">
-        You own all of the content you provide to {{ APPNAME }}, but you also grant us the right to use Your Content as provided in this Agreement.
+        5.Termination of Your Account
       </div>
       <div class="T_content">
-        By creating an account, you grant to {{ APPNAME }} a worldwide, perpetual, transferable, sub-licensable, royalty-free right and license to host, store, use, copy, display, reproduce, adapt, edit, publish, translate, modify, reformat, incorporate into other works, advertise, distribute and otherwise make available to the general public Your Content, including any information you authorize us to access from any other third-party sources (if applicable), in whole or in part, and in any way and in any format or medium currently known or developed in the future. {{ APPNAME }}'s license to Your Content shall be non-exclusive, except that {{ APPNAME }}'s license shall be exclusive with respect to derivative works created through use of our Services. For example, {{ APPNAME }} would have an exclusive license to screenshots of our Services that include Your Content.
+        If you are a registered user, you can deactivate your membership at any time by accessing your account, going to the settings page and clicking the delete button. Once you have deleted your account, you will not be able to restore it for 30 days. We will delete all notifications you have received and will delete your account data 30 days after you have deactivated your account. During this period, you can stop the termination process by accessing your account using your previous login credentials. We must keep your data for this long to process all potential inquiries related to your account. After deletion, we will not use your data for any other purpose.
         <br><br>
-        In addition, so that {{ APPNAME }} can prevent the use of Your Content outside of our Services, you authorize {{ APPNAME }} to act on your behalf with respect to infringing uses of Your Content taken from our Services by other users or third parties. This expressly includes the authority, but not the obligation, to send notices pursuant to 17 U.S.C. § 512(c)(3) (i.e., DMCA Takedown Notices) on your behalf if Your Content is taken and used by third parties outside of our Services. {{ APPNAME }} is not obligated to take any action with regard to use of Your Content by other users or third parties. {{ APPNAME }}'s license to Your Content is subject to your rights under applicable law (for example, laws regarding personal data protection to the extent the content contains personal information as defined by those laws).
+        Please note that even if you delete certain information from your profile, copies of this information may still be visible on the Internet if it has been previously shared with others or is accessible to search engines. The same applies to any third-party applications or websites that you have given access to your personal information. We have no control over whether they retain your information and how they use it, and we assume no responsibility or liability for this.
         <br><br>
-        In consideration for {{ APPNAME }} allowing you to use our Services, you agree that we, our affiliates, and our third-party partners may place advertising on our Services. By submitting suggestions or feedback to {{ APPNAME }} regarding our Services, you agree that {{ APPNAME }} may use and share such feedback for any purpose without compensating you.
-        <br><br>
-        You agree that {{ APPNAME }} may access, preserve, and disclose your account information, including Your Content, if required to do so by law or upon a good faith belief that such access, preservation, or disclosure is reasonably necessary to: (i) comply with legal process; (ii) enforce these Terms; (iii) respond to claims that any content violates the rights of third parties; (iv) respond to your requests for customer service; (v) protect the rights, property or personal safety of the Company or any other person, or (vi) to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing.
+        We may suspend or terminate your user access for any reason and without notice. We also reserve the right to block your access to our services using technical solutions that we deem appropriate.
         <br><br>
       </div>
 
       <!-- 6 -->
       <div class="T_title">
-        6. IN APP PURCHASES
+        6.Warranty Disclaimer
       </div>
       <div class="T_content">
-        From time to time, {{ APPNAME }} may offer additional products and services for purchase through the App Store ℠, Google Play or other application platforms ("in app purchases"). If you choose to make an in app purchase, you will be prompted to enter details for your account with the mobile platform you are using (e.g., Apple, Android, etc.) ("your IAP Account"), and your IAP Account will be charged for the in app purchase in accordance with the terms disclosed to you at the time of purchase as well as the general terms for in app purchases that apply to your IAP Account. If you purchase an auto-recurring periodic subscription through an in app purchase, your IAP Account will be billed continuously for the subscription until you cancel in accordance with the platform terms. In call cases, please refer to the terms of your application platform which apply to your in app purchases. {{ APPNAME }} do not have any obligation to terminate your subscription or membership, but you can claim a refund or cancel the subscription through App Store or Google Play at any time.
+        You hereby expressly acknowledge and agree that:
+        <br>
+        1) The use of Tera Inc. services and software is at your sole risk. Our services and software are provided on an "as is" and/or "as available" basis. Tera Inc. and its subsidiaries, affiliates, officers, employees, agents, partners and licensors expressly disclaim any warranties, whether express or implied, including, but not limited to, any implied warranties of title, merchantability, fitness for a particular purpose and non-infringement.
+        <br>
+        2) Tera Inc. and its subsidiaries, officers, employees, agents, partners and licensors make no warranty that: (i) the Tera Inc. services or software will meet your requirements; (ii) the Tera Inc. services or software will be uninterrupted, timely, secure or error-free; (iii) the results that may be obtained from the use of the Tera Inc. services or software will be accurate or reliable; (iv) the quality of any products, services, any information or other material purchased or obtained by you through our services or software will meet your expectations; and (v) any such errors contained in the software will be corrected.
+        <br>
+        3) Any information or materials downloaded or otherwise obtained through Tera Inc. services or software should be at your own discretion and risk. Therefore, you should bear full responsibility for any damage caused by your computer or Internet access, download or display, or any data loss caused by downloading any such information or materials, and hereby waive any and all claims and grounds of action.
+        <br>
+        4) No advice and/or information, whether written or oral, obtained by you from Tera Inc. or through our services or software shall create any warranty not expressly stated in these Terms of Service.
+        <br>
       </div>
 
       <!-- 7 -->
       <div class="T_title">
-        7. ACCOUNT TERMINATION
-      </div>
-      <div class="T_title_secondary">
-        If you no longer wish to use our Services, or if we terminate your account for any reason, here's what you need to know.
+        7.Changes to these Terms of Service
       </div>
       <div class="T_content">
-        You can delete your account at any time by logging into the Website or App, going to "Account settings" on my profile Settings, clicking "Delete Account", and following the instructions to complete the deletion process. However, you will need to cancel / manage any External Service Purchases through your External Service Account (e.g., iTunes, Google Play) to avoid additional billing.
+        We may update our Terms of Service from time to time. Therefore, you are advised to check this page periodically for any changes. We will notify you of any changes by posting the new Terms of Service on this page. These changes are effective immediately when they are posted on this page.
         <br><br>
-        {{ APPNAME }} reserves the right to investigate and, if appropriate, suspend or terminate your account without a refund if {{ APPNAME }} believes that you have violated these Terms, misused our Services, or behaved in a way that {{ APPNAME }} regards as inappropriate or unlawful, on or off our Services. We reserve the right to make use of any personal, technological, legal, or other means available to enforce the Terms, at any time without liability and without the obligation to give you prior notice, including, but not limited to, preventing you from accessing the Services.
-        <br><br>
-        If your account is terminated by you or by {{ APPNAME }} for any reason, these Terms continue and remain enforceable between you and {{ APPNAME }}, and you will not be entitled to any refund for purchases made. Your information will be maintained and deleted in accordance with our Privacy Policy.
-      </div>
-
-      <!-- 8 -->
-      <div class="T_title">
-        8. NO CRIMINAL BACKGROUND OR IDENTITY VERIFICATION CHECKS
-      </div>
-      <div class="T_title_secondary">
-        {{ APPNAME }} does not conduct criminal background or identity verification checks on its users. Though {{ APPNAME }} strives to encourage a respectful user experience, it is not responsible for the conduct of any user on or off the Service. Use your best judgment when interacting with others and review our Safety Tips.
-      </div>
-      <div class="T_content">
-        You understand that {{ APPNAME }} does not conduct criminal background or identity verification checks on its users or otherwise investigate the backgrounds of its users. {{ APPNAME }} makes no representations or warranties regarding the conduct, identity, health, physical condition, intentions, legality, or authenticity of its users. {{ APPNAME }} reserves the right (and you authorize {{ APPNAME }} to do so) to conduct any criminal background check or other screening (e.g., sex offender registry search) at any time using available public records, and you agree that any information you provide may be used for such purpose. If the Company decides to conduct any screening through a consumer reporting agency, you hereby authorize the Company to obtain and use a consumer report about you to determine whether you qualify for these Terms.
-        <br><br>
-        You are solely responsible for your interactions with other users. We cannot and do not guarantee your safety and are not a substitute for following safety tips and other reasonable safety precautions. Always use your best judgment and take appropriate safety precautions when communicating with or meeting new people. Communications received through the Service, including automated notifications sent by {{ APPNAME }}, may be the result of users using the Service for improper purposes, including fraud, abuse, harassment, or other such inappropriate behavior.
-        <br><br>
-        While {{ APPNAME }} strives to encourage a respectful user experience, it is not responsible for the conduct of any user on or off the Service. You agree to exercise caution in all interactions with other users, especially when you decide to communicate outside the Service or meet in person.
-      </div>
-
-      <!-- 9 -->
-      <div class="T_title">
-        9. DISCLAIMER
-      </div>
-      <div class="T_title_secondary">
-        {{ APPNAME }}'s Services are provided "as is" and we do not make, and cannot make, any representations about the content or features of our Services or Member Content.
-      </div>
-      <div class="T_content">
-        {{ APPNAME }} provides our services on an "as is" and "as available" basis and, to the extent permitted by applicable law, disclaims all warranties of any kind, whether express, implied, statutory or otherwise, with respect to our services (including all content contained therein). (including all content contained therein), including, but not limited to, any implied warranties of satisfactory quality, merchantability, fitness for a particular purpose or non-infringement. {{ APPNAME }} does not represent or warrant that: (a) our services will be uninterrupted, secure or error-free; (b) any defects or errors in our services will be discovered or corrected; or (c) any content or information you obtain on or through our services will be accurate, complete, current or fit for your purposes. In addition, {{ APPNAME }} does not guarantee the number of active Users at any given time; the ability or desire of Users to communicate with or meet you, or the ultimate compatibility or behavior of Users you meet through the Services.
-        <br><br>
-        {{ APPNAME }} is not responsible for any content posted, sent, received or performed by you or other Users or third parties through our Services, nor is {{ APPNAME }} responsible for the identity, intent, legality or authenticity of any Users with whom you may communicate through {{ APPNAME }}. Any material downloaded or otherwise obtained through the use of our Services is done at your own discretion and risk. {{ APPNAME }} shall not be liable for any damages to your computer hardware, computer software or other equipment or technology, including, but not limited to, damages resulting from any security breach, any virus, bug, bug, tampering, hacking, fraud, error, omission, interruption, defect, delay in operation or transmission, computer line or network failure, or any other technical or other interruption or failure.
-      </div>
-
-      <!-- 10 -->
-      <div class="T_title">
-        10. ADS AND THIRD-PARTY CONTENT
-      </div>
-      <div class="T_title_secondary">
-        You may see ads and third-party promotions on our Services. {{ APPNAME }} does not endorse and isn't responsible for your interactions with those products or services.
-      </div>
-      <div class="T_content">
-        Our Services may contain advertisements and promotions offered by third parties and links to other websites or resources. In addition, our Services may allow you to watch an advertisement in exchange for In-App Items; {{ APPNAME }} does not guarantee that you will always be eligible to watch such advertisements, or that any such advertisements will be available. {{ APPNAME }} may also provide non-commercial links or references to third parties within its content. {{ APPNAME }} is not responsible for the availability (or lack of availability) of any external websites or resources or their content. Furthermore, {{ APPNAME }} is not responsible for, and does not endorse, any products or services that may be offered by third-party websites or resources. If you choose to interact with the third parties made available through our Services, such party's terms will govern their relationship with you. {{ APPNAME }} is not responsible or liable for such third parties' terms or actions.
-      </div>
-
-      <!-- 11 -->
-      <div class="T_title">
-        11. LIABILITY
-      </div>
-      <div class="T_title_secondary">
-        {{ APPNAME }}'s liability is limited to the maximum extent allowed by applicable law.
-      </div>
-      <div class="T_content">
-        to the maximum extent permitted by applicable law, in no event shall {{ APPNAME }}, its affiliates, employees, licensors or service providers be liable for any indirect, consequential, exemplary, incidental, special, punitive, fixed or enhanced damages, including, but not limited to, loss of profits (whether directly or indirectly caused), or any loss of data, loss of use, loss of goodwill, or other intangible loss These damages arise from: (I) your access to, use of, or inability to access or use the Services, (II) the conduct or content of any user or third party on or through any of the Services, the services of our affiliates, or in connection with the Services; or (III) any unauthorized access to, use of, or alteration of your content, even if {{ APPNAME }} has been advised of the possibility of such damages. to the maximum extent permitted by applicable law, in no event shall {{ APPNAME }}'s total liability to you for all claims relating to the services exceed the greater of (a) one hundred dollars ($100) or (b) the amount, if any, paid by you to {{ APPNAME }} for the services during the twenty-four (24) month period prior to the date on which an action, arbitration, or any other proceeding is first instituted against {{ APPNAME }} in any court, whether statutory, legal, or equitable. statutory, legal or equitable. The limitation on damages set forth in the preceding sentence applies (i) regardless of the basis of liability (whether for breach of contract, contract, tort, statute or otherwise), (ii) regardless of the type of breach of right, privilege or obligation, and (iii) to all Events, Services and this Agreement.
-        <br><br>
-        the limitation of liability provisions set forth in this section apply even if your remedies under this agreement fail of their essential purpose.
-        <br><br>
-        some jurisdictions do not allow limitations on certain damages, so some or all of the limitations in this section may not apply to you.
-      </div>
-
-      <!-- 12 -->
-      <div class="T_title">
-        12. ACCEPTANCE OF TERMS
-      </div>
-      <div class="T_title_secondary">
-        By using our Services, you accept the Terms of this Agreement.
-      </div>
-      <div class="T_content">
-        By using our Services, whether through a mobile device, mobile application or computer, you agree to be bound by: (i) these Terms as we may modify from time to time; (ii) our Privacy Policy, User Policy; and (iii) any additional terms at the time of purchase. If you do not accept and agree to be bound by all the terms of this Agreement, you are not authorized to use our Services.
-        <br><br>
-        All pronouns and any variations thereof shall be deemed to refer to the masculine, feminine, neuter, singular or plural of any entity or person to be referred to.
         <br><br>
       </div>
     </div>
@@ -290,6 +180,13 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
   color: #000;
   text-align: left;
 }
+.T_title_contact {
+  font-size: 24px;
+  font-weight: 900;
+  margin: 1rem 0px;
+  color: #000;
+  text-align: left;
+}
 .T_title_secondary {
   font-size: 16px;
   font-weight: 500;
@@ -307,6 +204,13 @@ const EMAILADDRESS = 'tangyuxin5220@163.com'
 }
 .bg {
   padding: 50px 50px;
+  margin: 0;
   background-color: #f5f6f7;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-y: auto;
 }
 </style>
