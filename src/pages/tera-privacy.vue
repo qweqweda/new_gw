@@ -2,8 +2,8 @@
 defineOptions({
   name: 'IndexPage',
 })
-const APPNAME = 'Tera'
-const EMAILADDRESS = 'tangyuxin5220@163.com'
+const APPNAME = 'App_Name'
+const EMAILADDRESS = 'Email_Address'
 </script>
 
 <template>
