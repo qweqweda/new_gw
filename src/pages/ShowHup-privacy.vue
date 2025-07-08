@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const APPNAME = 'ShowHup'
-const EMAILADDRESS = 'Email_Address'
+const EMAILADDRESS = 'cuijunrong@tszhongyi.shop'
 </script>
 
 <template>
