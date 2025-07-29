@@ -2,9 +2,10 @@
 defineOptions({
   name: 'IndexPage',
 })
-const APPNAME = 'App_Name'
+const APPNAME = 'yala'
 const EMAILADDRESS = 'Email_Address'
 </script>
+
 
 <template>
   <div class="bg">
