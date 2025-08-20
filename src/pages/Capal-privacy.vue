@@ -139,30 +139,30 @@ const EMAILADDRESS = 'marycitadelgabule1985@outlook.com'
         The Company may update this Privacy Policy from time to time at its sole discretion to respond to changes in the law, technology and/or business developments. The revised Privacy Policy will be effective immediately upon posting by the Company and we will replace this page with the updated version. When we update our Privacy Policy, we will take appropriate action and notify you through a privacy statement consistent with material changes we may make.
        
       </div>
-        <!-- 8 -->
- <div class="T_title">
-     9.Subscription Terms 
-</div>
-<div class="T_content">
-The premium membership within {{ APPNAME }} is an auto-renewing subscription service. All payments, order fulfillment, and subscription management are handled exclusively by the Apple App Store.
-<br>
-(i)Payment and Billing: 
-<br>
-All payments for subscriptions will be processed by the Apple App Store. Your iTunes Account will be charged immediately upon confirmation of purchase.
-<br>
-(ii)Automatic Renewal:
-<br>
- Your subscription will automatically renew unless auto-renew is turned off at least twenty-four (24) hours before the end of the current subscription period. Your account will be charged for renewal within 24 hours prior to the end of the current period.
-<br>
-(iii)Subscription Management: 
-<br>
-You may not cancel the current subscription period within this app. To manage (view, turn off auto-renewal, or request a refund) your subscription, you must go to your Apple ID Account Settings (Typically found on your device: 【Settings】 > [Your Name] > 【iTunes & App Store】> Tap your Apple ID > 【View Apple ID】> 【Subscriptions】).
-<br>
-(iv)Price Changes: 
-<br>
-We reserve the right to change subscription fees at any time. Price changes will take effect for your next subscription period. We will communicate any price changes to you in advance. If you do not agree to the new price, you may cancel your subscription before the change takes effect.
-Terms of Service: We reserve the right to modify or discontinue the Subscription service (or any part thereof) at any time without notice.
- <br><br>
+        <!-- 9 -->
+      <div class="T_title">
+          9.Subscription Terms 
+      </div>
+      <div class="T_content">
+      The premium membership within {{ APPNAME }} is an auto-renewing subscription service. All payments, order fulfillment, and subscription management are handled exclusively by the Apple App Store.
+      <br>
+      (i)Payment and Billing: 
+      <br>
+      All payments for subscriptions will be processed by the Apple App Store. Your iTunes Account will be charged immediately upon confirmation of purchase.
+      <br>
+      (ii)Automatic Renewal:
+      <br>
+      Your subscription will automatically renew unless auto-renew is turned off at least twenty-four (24) hours before the end of the current subscription period. Your account will be charged for renewal within 24 hours prior to the end of the current period.
+      <br>
+      (iii)Subscription Management: 
+      <br>
+      You may not cancel the current subscription period within this app. To manage (view, turn off auto-renewal, or request a refund) your subscription, you must go to your Apple ID Account Settings (Typically found on your device: 【Settings】 > [Your Name] > 【iTunes & App Store】> Tap your Apple ID > 【View Apple ID】> 【Subscriptions】).
+      <br>
+      (iv)Price Changes: 
+      <br>
+      We reserve the right to change subscription fees at any time. Price changes will take effect for your next subscription period. We will communicate any price changes to you in advance. If you do not agree to the new price, you may cancel your subscription before the change takes effect.
+      Terms of Service: We reserve the right to modify or discontinue the Subscription service (or any part thereof) at any time without notice.
+      <br><br>
         However, you acknowledge that it is your responsibility to check the Privacy Policy from time to time to be aware of any changes that may have occurred.
         <br><br>
         <br><br>
