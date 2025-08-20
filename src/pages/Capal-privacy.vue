@@ -143,9 +143,11 @@ const EMAILADDRESS = 'marycitadelgabule1985@outlook.com'
         <br><br>
       </div>
  <div class="T_title">
-     9.The premium membership within {{ APPNAME }} is an auto-renewing subscription service. All payments, order fulfillment, and subscription management are handled exclusively by the Apple App Store.
+     9.Subscription Terms 
 </div>
 <div class="T_content">
+<br><br>
+The premium membership within {{ APPNAME }} is an auto-renewing subscription service. All payments, order fulfillment, and subscription management are handled exclusively by the Apple App Store.
 <br><br>
 Payment and Billing: All payments for subscriptions will be processed by the Apple App Store. Your iTunes Account will be charged immediately upon confirmation of purchase.
 <br><br>
