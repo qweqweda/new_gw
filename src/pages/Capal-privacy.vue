@@ -147,14 +147,14 @@ const EMAILADDRESS = 'marycitadelgabule1985@outlook.com'
 </div>
 <div class="T_content">
 The premium membership within {{ APPNAME }} is an auto-renewing subscription service. All payments, order fulfillment, and subscription management are handled exclusively by the Apple App Store.
+<br>
+(i)Payment and Billing: All payments for subscriptions will be processed by the Apple App Store. Your iTunes Account will be charged immediately upon confirmation of purchase.
 <br><br>
-Payment and Billing: All payments for subscriptions will be processed by the Apple App Store. Your iTunes Account will be charged immediately upon confirmation of purchase.
-<br><br>
-Automatic Renewal: Your subscription will automatically renew unless auto-renew is turned off at least twenty-four (24) hours before the end of the current subscription period. Your account will be charged for renewal within 24 hours prior to the end of the current period.
-<br><br>
-Subscription Management: You may not cancel the current subscription period within this app. To manage (view, turn off auto-renewal, or request a refund) your subscription, you must go to your Apple ID Account Settings (Typically found on your device: 【Settings】 > [Your Name] > 【iTunes & App Store】> Tap your Apple ID > 【View Apple ID】> 【Subscriptions】).
-<br><br>
-Price Changes: We reserve the right to change subscription fees at any time. Price changes will take effect for your next subscription period. We will communicate any price changes to you in advance. If you do not agree to the new price, you may cancel your subscription before the change takes effect.
+(ii)Automatic Renewal: Your subscription will automatically renew unless auto-renew is turned off at least twenty-four (24) hours before the end of the current subscription period. Your account will be charged for renewal within 24 hours prior to the end of the current period.
+<br>
+(iii)Subscription Management: You may not cancel the current subscription period within this app. To manage (view, turn off auto-renewal, or request a refund) your subscription, you must go to your Apple ID Account Settings (Typically found on your device: 【Settings】 > [Your Name] > 【iTunes & App Store】> Tap your Apple ID > 【View Apple ID】> 【Subscriptions】).
+<br>
+(iv)Price Changes: We reserve the right to change subscription fees at any time. Price changes will take effect for your next subscription period. We will communicate any price changes to you in advance. If you do not agree to the new price, you may cancel your subscription before the change takes effect.
 Terms of Service: We reserve the right to modify or discontinue the Subscription service (or any part thereof) at any time without notice.
 </div>   
 </div>
