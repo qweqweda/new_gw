@@ -150,8 +150,8 @@ const EMAILADDRESS = 'marycitadelgabule1985@outlook.com'
       </div>
       <div class="T_content">
         We may update our Terms of Service from time to time. Therefore, you are advised to check this page periodically for any changes. We will notify you of any changes by posting the new Terms of Service on this page. These changes are effective immediately when they are posted on this page.
-        <br><br>
-        <br><br>
+        <br>
+        
       </div>
         <!-- 9 -->
     <div class="T_title">
