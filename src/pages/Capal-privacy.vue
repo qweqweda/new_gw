@@ -149,7 +149,7 @@ The premium membership within {{ APPNAME }} is an auto-renewing subscription ser
 (i)Payment and Billing: 
 <br>
 All payments for subscriptions will be processed by the Apple App Store. Your iTunes Account will be charged immediately upon confirmation of purchase.
-<br><br>
+<br>
 (ii)Automatic Renewal:
 <br>
  Your subscription will automatically renew unless auto-renew is turned off at least twenty-four (24) hours before the end of the current subscription period. Your account will be charged for renewal within 24 hours prior to the end of the current period.
