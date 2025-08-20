@@ -143,7 +143,7 @@ const EMAILADDRESS = 'marycitadelgabule1985@outlook.com'
         <br><br>
       </div>
  <div class="T_title">
-     9.The premium membership within [Your App Name] is an auto-renewing subscription service. All payments, order fulfillment, and subscription management are handled exclusively by the Apple App Store.
+     9.The premium membership within {{ APPNAME }} is an auto-renewing subscription service. All payments, order fulfillment, and subscription management are handled exclusively by the Apple App Store.
 </div>
 <div class="T_content">
 Payment and Billing: All payments for subscriptions will be processed by the Apple App Store. Your iTunes Account will be charged immediately upon confirmation of purchase.
@@ -153,7 +153,6 @@ Automatic Renewal: Your subscription will automatically renew unless auto-renew 
 Subscription Management: You may not cancel the current subscription period within this app. To manage (view, turn off auto-renewal, or request a refund) your subscription, you must go to your Apple ID Account Settings (Typically found on your device: 【Settings】 > [Your Name] > 【iTunes & App Store】> Tap your Apple ID > 【View Apple ID】> 【Subscriptions】).
 
 Price Changes: We reserve the right to change subscription fees at any time. Price changes will take effect for your next subscription period. We will communicate any price changes to you in advance. If you do not agree to the new price, you may cancel your subscription before the change takes effect.
-
 Terms of Service: We reserve the right to modify or discontinue the Subscription service (or any part thereof) at any time without notice.
 </div>   
 </div>
