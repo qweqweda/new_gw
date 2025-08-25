@@ -49,207 +49,132 @@ const EMAILADDRESS = 'marycitadelgabule1985@outlook.com'
         2. You may not copy, modify, distribute, or sublicense the Licensed Application except as expressly permitted.
         <br>
         3. Licensor may update or modify this Agreement as needed.
-        (ii) Communicate with us via email
-        <br>
-        As part of the Services, you may occasionally receive emails and other communications from us. Administrative
-        communications related to your account (such as for account recovery or password reset) are considered part of
-        the Services and your account, and you may not be able to opt out of receiving these communications. We may also
-        send you other types of emails that you can opt out of from your Account Settings page.
-        <br><br>
-        (iii) Information about your accounts on third-party services
-        <br>
-        You may link your account to certain third-party services. To do so, you may choose to provide us with your
-        username or other user ID for the third-party service, and you may then be required to log in to that service.
-        Once you complete this login process, we will receive a token that allows us to access your account on the
-        Service so that we can post your content to the Service when you request it. We do not receive or store
-        passwords for your accounts on third-party services.
-        <br><br>
-        (iv) User Content
-        <br>
-        By default, all information shared through the Service is public, with the exception of messages you receive or
-        send (“Notifications”). In some cases, especially when the recipient decides to do so, Notifications may also be
-        public. That is why you should always treat them as public, as well. Unless otherwise stated, you should assume
-        that anything you post is public. Content that is posted and shared publicly is accessible to everyone,
-        including search engines, which may affect your control over that content. In addition, information shared
-        publicly may be copied and shared throughout the Internet, including through actions or features native to the
-        Service. You should not be afraid to post content, but you should always remember that once posted, content is
-        difficult to remove from the Internet.
-        <br><br>
-        (v) Native Actions
-        <br>
-        The Service allows you to perform actions that are essential to our products, such as liking a post, answering
-        or commenting on {{ APPNAME }}, and following other users. The above actions are public by default, but you can
-        choose to remain anonymous in some cases, such as if you follow someone. We use information about the operation
-        of this machine to improve the Services, develop new Services, and, in particular, to personalize your {{
-        APPNAME }} experience. Personalization using this information may include showing you new posts related to
-        content you like, providing you with better search results, and showing you ads that are more relevant to your
-        interests.
-        <br><br>
-        (vi) Information About User Content
-        <br>
-        In some cases, we may collect information about the content you provide to the Services. For example, when
-        content is included in your pictures, we may collect information describing your camera and camera settings.
-        This information enables us to improve the Services and provide additional features.
-        <br><br>
-        (vii) Location Information
-        <br>
-        In some cases, we collect and store information about your location, such as converting your IP address to a
-        coarse geographic location. We may also ask you to provide information about your location, such as allowing
-        posts to be geotagged using geolocation information from your mobile device. We may use location information to
-        improve and personalize the Services for you, such as showing you relevant content and/or relevant ads.
-        <br><br>
-        (viii) Information About Your Mobile Device
-        <br>
-        We may collect and store information about your mobile device. In some cases, we may receive, generate, or
-        assign a unique identifier to your mobile device for the purposes described above under “Information Related to
-        Use of the Services.”
-        <br><br>
+        
+       
       </div>
 
       <!-- 3 -->
       <div class="T_title">
-        3.Use of Personal Information
+        3. Technical Requirements
       </div>
       <div class="T_content">
-        Anonymization is a data processing technique that removes or modifies personal information so that it cannot be
-        associated with a specific individual. Except for this section, the other provisions of this Privacy Policy do
-        not apply to anonymous or aggregated personal data (i.e. user information that we combine together so that it
-        can no longer identify or reference an individual user).
-        <br><br>
-        We may use anonymous or aggregated data for any business purpose, including to better understand users' needs
-        and behaviors, to improve our products and services, to conduct business intelligence and marketing, and to
-        detect security threats. We may perform our own analysis of anonymous data or enable analysis provided by third
-        parties.
-        <br><br>
+        Licensor may update the Licensed Application to remain compatible with iOS and new devices, but is not obligated to provide updates.
       </div>
 
       <!-- 4 -->
       <div class="T_title">
-        4.Your Account and Content
+        4. Maintenance and Support
       </div>
       <div class="T_content">
-        If your content is publicly posted, it will remain public as long as you or we do not delete it from the
-        Service. You can choose to delete your individual post or comment at any time, and we will remove it from the
-        Service. However, it is important to note that your deleted posts may be stored in our systems for a limited
-        period of time for legal, business, security, or system backup reasons, and they may continue to be accessible
-        in cached and archived pages of the Service or elsewhere if others choose to copy or save them. Search engines
-        and other websites may also index and cache content on our Service. You may have to contact these third-party
-        websites or search engines directly to delete your cached information, subject to their policies and procedures.
-        <br><br>
-        If you wish to delete your account, you can do so by clicking the "Forget Me" button in the in-app settings. You
-        can also delete your account using the "Email Support" link in the in-app settings (or by sending an email to {{
-        EMAILADDRESS }}), but please note that we may retain certain information as required by law, for legitimate
-        business purposes, or for the safety of {{ APPNAME }} (including its users) and others. We may also retain
-        cached or archived copies of information about you for a certain period of time.
-        <br><br>
+        Licensor is solely responsible for providing maintenance and support. Apple has no obligation to provide such services. Contact details are provided in Section 12.
       </div>
 
       <!-- 5 -->
       <div class="T_title">
-        5.Information related to the use of the service
+        5. Use of Data
       </div>
       <div class="T_content">
-        We collect information about how people (including people who have accounts) use the Services. Each time you
-        interact with (that is, make a request to) the Services, we may collect this information in our log files. We
-        use internal tools and third-party applications and services to collect and analyze this information. Some of
-        this information may also be associated with the Internet Protocol address ("IP address") used to access the
-        Services; some may be associated with your account; and some may be collected and used only in aggregate form
-        (as statistical metrics that do not identify you or your account). We also collect your IP address when you
-        post, particularly when you submit a Tell. We may use information about how you and others interact with the
-        Services for a variety of purposes generally related to enhancing, improving, protecting, and developing new
-        Services, including, but not limited to: delivering personalized content to users; delivering targeted
-        advertising to users; improving our search results; identifying popular content; fighting spam, malware, and
-        identity theft, and generally keeping our users and community safe; and for the legal and security reasons set
-        forth in "Information Disclosures to Protect Us and Others."
-        <br><br>
+        Licensor may collect technical data and usage information to improve products and services, consistent with its Privacy Policy. Personal data handling follows the terms of that Privacy Policy.
       </div>
 
       <!-- 6 -->
       <div class="T_title">
-        6.Who your information is shared with
+        6.User-Generated Content
       </div>
       <div class="T_content">
-        We never share information we obtain from you unless:
-        <br>
-        (i) We have your permission to share that information, such as to provide a service you have requested
-        (including when you connect to a third-party service)
-        <br>
-        (ii) We have notified you in advance that the information will be shared and with whom (such as in this Privacy
-        Policy)
-        <br>
-        (iii) The information is aggregated or otherwise does not identify you.
-        <br>
-        You confirm that you have obtained all appropriate consents and authorizations to upload and share personal
-        information of third parties and to contact such third parties (and to be contacted by {{ APPNAME }} on your
-        behalf) where relevant.
-        <br><br>
+        Users may post content such as text, photos, or videos (“Contributions”). You are solely responsible for your Contributions and must ensure they:
+ Do not infringe third-party rights.
+ Are lawful and appropriate.
+ Do not contain offensive or harmful material.
+
+Licensor may remove or restrict Contributions at its discretion.
       </div>
 
       <!-- 7 -->
       <div class="T_title">
-        7.Personal Information of Minors
+        7. Contribution License
       </div>
       <div class="T_content">
-        We do not intentionally collect personally identifiable information from minors as defined by the laws of any
-        applicable jurisdiction. If we discover that we have inadvertently collected personally identifiable information
-        from a minor, we will immediately delete that information. If you become aware of any minor using our Apps and
-        Websites and Services, please notify us so that we can take action to block access to our Apps and Websites and
-        Services.
-        <br><br>
+        By posting Contributions, you grant Licensor a worldwide, non-exclusive, royalty-free license to use, display, and distribute such content in connection with the Licensed Application. You retain ownership of your Contributions.
       </div>
 
       <!-- 8 -->
       <div class="T_title">
-        8.Changes to this Privacy Policy
+        8. Liability
       </div>
       <div class="T_content">
-        The Company may update this Privacy Policy from time to time at its sole discretion to respond to changes in the
-        law, technology and/or business developments. The revised Privacy Policy will be effective immediately upon
-        posting by the Company and we will replace this page with the updated version. When we update our Privacy
-        Policy, we will take appropriate action and notify you through a privacy statement consistent with material
-        changes we may make.
-
+        Licensor is not responsible for damages arising from misuse or unauthorized modification of the Licensed Application. Backup of your data is your responsibility.
       </div>
       <!-- 9 -->
       <div class="T_title">
-        9.Subscription Terms
+        9. Warranty
       </div>
       <div class="T_content">
-        The premium membership within {{ APPNAME }} is an auto-renewing subscription service. All payments, order
-        fulfillment, and subscription management are handled exclusively by the Apple App Store.
-        <br>
-        (i)Payment and Billing:
-        <br>
-        All payments for subscriptions will be processed by the Apple App Store. Your iTunes Account will be charged
-        immediately upon confirmation of purchase.
-        <br>
-        (ii)Automatic Renewal:
-        <br>
-        Your subscription will automatically renew unless auto-renew is turned off at least twenty-four (24) hours
-        before the end of the current subscription period. Your account will be charged for renewal within 24 hours
-        prior to the end of the current period.
-        <br>
-        (iii)Subscription Management:
-        <br>
-        You may not cancel the current subscription period within this app. To manage (view, turn off auto-renewal, or
-        request a refund) your subscription, you must go to your Apple ID Account Settings (Typically found on your
-        device: 【Settings】 > [Your Name] > 【iTunes & App Store】> Tap your Apple ID > 【View Apple ID】> 【Subscriptions】).
-        <br>
-        (iv)Price Changes:
-        <br>
-        We reserve the right to change subscription fees at any time. Price changes will take effect for your next
-        subscription period. We will communicate any price changes to you in advance. If you do not agree to the new
-        price, you may cancel your subscription before the change takes effect.
-        Terms of Service: We reserve the right to modify or discontinue the Subscription service (or any part thereof)
-        at any time without notice.
-        <br><br>
-        However, you acknowledge that it is your responsibility to check the Privacy Policy from time to time to be
-        aware of any changes that may have occurred.
-        <br><br>
-        <br><br>
+        1. Licensor warrants that the Licensed Application is free of malware at download and functions as described.
+2. No warranty applies if the Licensed Application is modified, used improperly, or combined with incompatible systems.
+3. Remedies for defects are limited to repair, replacement, or refund through the App Store.
+      </div>
+      <div class="T_title">
+        10. Product Claims
+      </div>
+      <div class="T_content">
+       
+Licensor, not Apple, is responsible for handling product liability, legal compliance, consumer protection, and other claims related to the Licensed Application.
+      </div>
+      <div class="T_title">
+        11. Legal Compliance
+      </div>
+      <div class="T_content">
+        You confirm that you are not located in a restricted country and are not on any U.S. Government prohibited party list.
+      <div class="T_title">
+        12. Contact Information
+      </div>
+      <div class="T_content">
+       
+For inquiries or claims regarding the Licensed Application, contact:
+
+Capal
+Purok 3 Gango Ozamiz City, Misamis Occidental 7200 Philippines
+Email: marycitadelgabule1985@outlook.com
+      </div>
+      <div class="T_title">
+        13. Termination
+      </div>
+      <div class="T_content">
+        This Agreement is valid until terminated by either party. Your rights will end automatically if you fail to comply with the Agreement. Upon termination, you must cease use and delete all copies of the Licensed Application.
+      </div>
+      <div class="T_title">
+        14. Third-Party Beneficiaries
+      </div>
+      <div class="T_content">
+        Apple and its subsidiaries are third-party beneficiaries of this Agreement and may enforce its terms against you.
+      </div>
+      <div class="T_title">
+        15. Intellectual Property
+      </div>
+      <div class="T_content">
+        Licensor retains all intellectual property rights in the Licensed Application. In case of third-party claims, Licensor is solely responsible for defense and settlement.
+      </div>
+      <div class="T_title">
+        16. Governing Law
+      </div>
+      <div class="T_content">
+        This Agreement is governed by the laws of England and Wales, excluding conflict-of-law rules.
+      </div><div class="T_title">
+        17. Miscellaneous
+      </div>
+      <div class="T_content">
+        1. If any provision is invalid, the remainder remains enforceable.
+        2. Amendments must be made in writing.
+      </div><div class="T_title">
+        18.Subscriptions
+      </div>
+      <div class="T_content">
+        Certain features of the Licensed Application require a paid subscription. Subscriptions automatically renew for the same duration and price unless canceled at least 24 hours before the end of the current period through your App Store account settings. All subscription terms, including pricing, duration, and cancellation, are provided in the App Store and within the Licensed Application. By using these subscription features, you agree to be bound by these terms.
       </div>
     </div>
   </div>
+</div>
 </template>
 
 <style scoped>
