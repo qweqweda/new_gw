@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const APPNAME = 'Once Up'
-const EMAILADDRESS = 'chen1857zhibin@163.com'
+const EMAILADDRESS = 'rcdlm@outlook.com'
 </script>
 
 <template>
