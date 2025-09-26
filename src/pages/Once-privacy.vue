@@ -139,8 +139,6 @@ const EMAILADDRESS = 'rcdlm@outlook.com'
         The Company may update this Privacy Policy from time to time at its sole discretion to respond to changes in the law, technology and/or business developments. The revised Privacy Policy will be effective immediately upon posting by the Company and we will replace this page with the updated version. When we update our Privacy Policy, we will take appropriate action and notify you through a privacy statement consistent with material changes we may make.
         <br><br>
         However, you acknowledge that it is your responsibility to check the Privacy Policy from time to time to be aware of any changes that may have occurred.
-        <br><br>
-        <br><br>
       </div>
 
              <!-- 8 -->
