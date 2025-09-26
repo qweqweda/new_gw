@@ -142,6 +142,24 @@ const EMAILADDRESS = 'rcdlm@outlook.com'
         <br><br>
         <br><br>
       </div>
+
+             <!-- 8 -->
+      <div class="T_title">
+        8.In-App Purchases
+      </div>
+      <div class="T_content">
+        Our app offers optional in-app purchases. These purchases are processed and billed through your Apple ID account.
+        <br>
+        1) Prices may vary by region and are displayed clearly in the app before you confirm a purchase.
+        <br>
+        2) Some features are available without payment, and in-app purchases are entirely optional.
+        <br>
+        3) If you purchase a subscription, it will automatically renew unless canceled at least 24 hours before the end of the current billing period. You can manage or cancel your subscriptions in your Apple ID account settings.
+        <br>
+        4) All transactions are subject to Apple's App Store payment policies. We do not collect or store your payment information.
+        <br>
+      </div>
+      
     </div>
   </div>
 </template>
